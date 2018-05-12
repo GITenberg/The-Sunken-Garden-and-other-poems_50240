@@ -1,4 +1,8 @@
 _repo: The-Sunken-Garden-and-other-poems_50240
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50240-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: De la Mare, Walter
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1108
     wikipedia: http://en.wikipedia.org/wiki/Walter_de_la_Mare
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50240#The-Sunken-Garden-and-other-poems
 gutenberg_issued: '2015-10-17'
 gutenberg_type: Text
 identifiers:
